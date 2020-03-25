@@ -1,3 +1,3 @@
 This is first file's first line.
 This is first file's second line.
-New Line
+third line for conflict.
