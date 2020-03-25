@@ -1,1 +1,2 @@
 This is third file's first line
+This is the new line.
